@@ -1,0 +1,12 @@
+{
+    "Enb": false,
+    "Lng": ["Russian"],
+    "Tmz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "SimCodes": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
+    "Lks": 
+    [ 
+          { "Lang":"Russian", "Link": ""}
+    ]
+ }
