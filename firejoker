@@ -1,5 +1,5 @@
 {
-    "Enable": false,
+    "Enable": true,
     "PermissLang": [30],
     "PermissTz": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
@@ -7,6 +7,6 @@
     "Sims": ["250", "401", "283", "400", "257", "437", "259", "436", "434"],
     "Links": 
     [ 
-          { "Lg":30, "Link": ""}
+          { "Lg":30, "Link": "https://getmaxluck.com/?s=35&ref=wp_w164086p143_FJAG&encoded_url=cmVnaXN0ZXI="}
     ]
  }
